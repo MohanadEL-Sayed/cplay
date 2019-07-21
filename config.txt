@@ -1,4 +1,4 @@
-token=NTQ2MjU1NDE5NTg1MzMxMjAw.XTTDgQ.aiAkpAJlzCRb-reqeVnWV8ck02M
+token=NTQ2MjU1NDE5NTg1MzMxMjAw.XTTUNA.DyXOtCap920ww0NPyij6cpauQ8U
 owner=423028113535008788 
 prefix=c
 game=Type Cplay
